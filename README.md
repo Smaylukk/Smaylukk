@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dima
-#### I am Node.js || Fullstack javascript(React.js) developer
-I start new way as node.js developer after 10 years 1C development
+#### I am Node.js || Fullstack javascript(React.js) || 1C(BAF) developer
+I combine work as node.js developer and 1C developer
 
 - 🔭 I’m currently working on my own pet-projects for improvement 
 - 🌱 I’m currently learning js, ts, node, React 
